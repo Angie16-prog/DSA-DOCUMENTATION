@@ -21,5 +21,32 @@ The primary source of data used here was Data Analysis.xlsx created for learning
       1. Data Manipulation
       2. Data Munching
 - SQL Server (For Querying and Analysis)
-- Power BI (for creating a report)
+- Power BI [Download Here]([for creating a report](https://www.microsoft.com/en-us/download/details.aspx?id=58494))
 - MS PowerPoint (for presentation)
+
+### **Data Cleaning and Preparation**
+
+In the initial phase of the data cleaning and preparation, we performed the following actions;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
+
+### **Exploratory Data Analysis**
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+- What is the overall sales trend?
+- Which product are the top sellers?
+- What are the products on peak sales?
+- What is the total sum of salary for the employees of a particular state?
+
+
+### **Data Analysis**
+
+This is where we included some basic lines of code or queries used during the analysis
+
+
+
+
+
+
+
+
