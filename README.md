@@ -43,6 +43,10 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 This is where we included some basic lines of code or queries used during the analysis
 
+```  SQL
+SELECT A,B,C
+WHERE A>45
+```
 
 
 
