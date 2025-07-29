@@ -3,13 +3,24 @@ This is where I started my Portfolio building while taking my Data Analysis clas
 
 I have learnt quite a number of things ranging from MS Excel to SQL and now to my Portfolio Building.
 
+### **Table of Content**
+- [DSA DOCUMENTATION](#table-of-content)
+- [Project Topic](#project-topic-data-analysis)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Analysis](#analysis)
+
 ## **Project Topic: Data Analysis** 
 
 ### **Project Overview**
 
 This Data Analysis project exposed me to Microsoft Excel and learned more than forty (40) functions, including how to clean and summarize data, create pivot tables, and a lot more. I was also taught Structured Query Language (SQL), where databases, tables, and views were created. I learnt how to import files, work with SQL commands, datatypes, keys, and logical operators, among others. I was also taught several things about Power BI
 
-### Data Source
+### **Data Source**
 
 The primary source of data used here was Data Analysis.xlsx created for learning
 
@@ -47,6 +58,16 @@ This is where we included some basic lines of code or queries used during the an
 SELECT A,B,C
 WHERE A>45
 ```
+
+### **Analysis**
+Here is a result obtained from an analysis carried out using pivot table
+
+![CHART 1(DSA)](https://github.com/user-attachments/assets/cba0717c-df35-4f0b-b95c-1c5371c98b08)
+
+
+
+
+
 
 
 
